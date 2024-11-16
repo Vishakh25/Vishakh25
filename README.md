@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Vishakh!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Application at the University of Bangalore, INDIA !<br/>
+👩🏻‍🎓 Studied Computer Application at the University of Bangalore, INDIA <br/>
+
 ![Vishakh25's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakh25&show_icons=true&theme=transparent)
 
 # 💻 Tech Stack
